@@ -101,3 +101,14 @@ button {
   border-radius: 20px;
   height: 30px;
 }
+
+button:hover {
+  cursor: pointer;
+  background-color: white;
+}
+
+.number-container:hover {
+  background-color: hsl(25, 97%, 53%);
+  opacity: 1;
+  cursor: pointer;
+}
