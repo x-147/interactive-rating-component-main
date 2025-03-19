@@ -84,6 +84,7 @@ button {
   text-transform: uppercase;
   font-size: x-small;
   font-weight: 600;
+  color: black;
   letter-spacing: 0.1rem;
 
   /* i tried centering text outside of button default */
